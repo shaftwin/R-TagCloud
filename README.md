@@ -1,2 +1,2 @@
 # r-tagcloud
-Simple React TagClouc
+Simple React TagCloud
