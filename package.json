@@ -2,8 +2,12 @@
   "name": "r-tagcloud",
   "version": "1.0.0",
   "description": "Simple React Tag Cloud component",
-  "author": "shaftwin",
+  "author": {
+    "name": "shaftwin",
+    "email": "florian.champin.neault@gmail.com"
+  },
   "license": "MIT",
+  "homepage": "https://github.com/shaftwin/r-tagcloud/",
   "repository": "shaftwin/r-tagcloud",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
