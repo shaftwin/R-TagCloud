@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/shaftwin/r-tagcloud.git"
   },
-  "author": "Florian Champin Néault <florian.champin.néault@gmail.com>",
+  "author": "Florian Champin Néault <florian.champin.neault@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
