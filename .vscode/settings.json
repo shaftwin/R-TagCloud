@@ -1,0 +1,5 @@
+{
+  "eslint.options": { "configFile": "./configs/eslint/.eslintrc.js" },
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "jest.jestCommandLine": "node_modules/.bin/jest --config configs/jest/jest.config.js"
+}
