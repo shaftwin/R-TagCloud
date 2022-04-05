@@ -1,8 +1,11 @@
 {
-  "name": "tekyn-react-webapp",
+  "name": "r-tagcloud",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@gitlab.com:tekyn/tekyn-web/tekyn-react-webapp.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaftwin/R-TagCloud.git"
+  },
   "author": "Florian Champin <florian@tekyn.com>",
   "license": "MIT",
   "private": true,
@@ -85,5 +88,20 @@
   },
   "resolutions": {
     "i18next-scanner/i18next": "20.3.2"
-  }
+  },
+  "description": "Simple React TagClouc",
+  "bugs": {
+    "url": "https://gitlab.com/tekyn/tekyn-web/tekyn-react-webapp/issues"
+  },
+  "homepage": "https://gitlab.com/tekyn/tekyn-web/tekyn-react-webapp#readme",
+  "keywords": [
+    "react",
+    "tag",
+    "cloud",
+    "tag-cloud",
+    "tagcloud",
+    "word",
+    "cloud",
+    "word-cloud"
+  ]
 }
